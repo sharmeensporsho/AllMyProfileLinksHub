@@ -104,9 +104,9 @@
     }
   
     .home img {
-      width: 140px;
+      width: 80px;
       max-width: 50%;
-      height: auto;
+      height: 100px;
     }
   
     .home .greeting {
