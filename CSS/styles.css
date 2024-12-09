@@ -182,13 +182,23 @@ body {
 }
 
 .bluesky .icon {
-  background: #0123fb;
+  background: #fcfcfc;
 }
 
 .portfolio .icon {
   background: linear-gradient(45deg, #027afa, #04d1ff);
 }
 
+.orcid .icon {
+  background: #43E660;
+
+}
+.xda .icon {
+  background: linear-gradient(45deg, #a36cdd, #04d1ff);
+}
+.linksphere .icon {
+  background: linear-gradient(45deg, #fabc02, #04d1ff);
+}
 .contact .icon {
   background: linear-gradient(45deg, #da6eed, #b12dc99d);
 }
